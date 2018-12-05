@@ -1,0 +1,76 @@
+
+#container{
+	margin: 0 auto;
+	padding:;
+}
+
+#main_nav {
+	background-color: #90AFC5;
+}
+
+#me_about{
+	padding-left: 100px;
+}
+
+#about{
+	padding: 20px;
+}
+
+#land_cover {
+	background-image: url("../images/landimage.jpg");
+	background-repeat: no-repeat, repeat;
+	background-size: cover;
+	color: white;
+	text-align: center;
+	
+}
+
+#land_page {
+
+	padding: 200px;
+}
+
+#gall_pad{
+	background-color: black;
+	margin-top: 20px;
+	padding-top: 50px;
+	color: white;
+}
+
+#about_do {
+	
+	text-align: center;
+}
+
+
+#home_cover {
+	
+	color: black;
+	text-align: center;
+}
+
+#home_page {
+	color: black;
+	float: right;
+	padding: 200px;
+}
+
+#about_me {
+	padding-top: 100px;
+	text-align: left;
+}
+
+#image {
+	padding-left: 100px;
+	padding-top: 50px;
+}
+
+#proj_do {
+	color: white;
+	text-align: center;
+}
+
+#soft_pad{
+	padding:20px;
+}
+
