@@ -1,7 +1,6 @@
 
 #container{
 	margin: 0 auto;
-	padding:;
 }
 
 #main_nav {
@@ -9,7 +8,10 @@
 }
 
 #me_about{
-	padding-left: 100px;
+	background-image: url("../images/line.jpg");
+	background-repeat: no-repeat, repeat;
+	background-size: cover;
+	padding: 200px;
 }
 
 #about{
