@@ -24,6 +24,10 @@
 	background-repeat: no-repeat, repeat;
 	background-size: cover;*/
 	padding: 10%;
+	
+}
+
+#p_justify {
 	text-align:justify;
 }
 
